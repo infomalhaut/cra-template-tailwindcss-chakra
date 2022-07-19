@@ -49,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexandr-g/cra-template-typescript-redux",
+    "url": "https://github.com/infomalhaut/cra-template-tailwindcss-chakra.git",
     "directory": "/"
   }
 }
