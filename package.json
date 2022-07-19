@@ -1,10 +1,17 @@
 {
   "name": "cra-template-tailwindcss-chakra",
   "version": "0.1.0",
+  "license": "MIT",
+  "author": "infomalhaut",
   "main": "template.json",
   "description": "A quick start Create React App template with React, Tailwindcss, Chakra UI",
   "keywords": ["react", "tailwindcss", "chakra"],
   "files":["template", "template.json"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infomalhaut/cra-template-tailwindcss-chakra.git",
+    "directory": "/"
+  },
   "dependencies": {
     "@chakra-ui/react": "^2.2.4",
     "@emotion/react": "^11.9.3",
@@ -46,10 +53,5 @@
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.6"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/infomalhaut/cra-template-tailwindcss-chakra.git",
-    "directory": "/"
   }
 }
